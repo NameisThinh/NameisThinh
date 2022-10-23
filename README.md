@@ -6,4 +6,4 @@
 ![Happy New Year! :D](https://i.imgur.com/tCGSEE6.gif)
 
 
-Credit by : <a link="https://github.com/NameisThinh">NameisThinh</a>  on 23/10/2022
+Credit by : <a href="https://github.com/NameisThinh">NameisThinh</a>  on 23/10/2022
